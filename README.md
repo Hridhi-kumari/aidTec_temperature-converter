@@ -1,5 +1,4 @@
 # aidTec_temperature-converter
-# Project Title
 I develop this project during my internship at Info aidTech.
 
 It is a simple temperature converter website allows users to convert temperatures from one unit to another.
